@@ -1,0 +1,11 @@
+{
+  "name": "interview-prep",
+  "version": "1.0.0",
+  "description": "Simple CRUD rest API for parking lot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "candidate",
+  "license": "ISC"
+}
